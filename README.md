@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Shahid Rahman
 
-<!--
-**ShahidRahman3737/ShahidRahman3737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer  
+🌱 Currently learning Laravel & AJAX  
+🛠 Skills: PHP, Laravel, MySQL, HTML, CSS, JavaScript  
+📍 Pakistan  
 
-Here are some ideas to get you started:
+### Projects
+- 🔹 Employee CRUD App (Laravel + AJAX)
+- 🔹 Tailor Measurement Record System
+- 🔹 Recipe Website (HTML/CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Become a professional Full-Stack Developer
+- Build real-world web applications
+
+📫 Contact me:
+- GitHub: @ShahidRahman3737
