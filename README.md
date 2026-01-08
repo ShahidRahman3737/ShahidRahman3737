@@ -16,7 +16,7 @@
 - MySQL
 - HTML5 & CSS3
 - jQuery & AJAX
-- Bootstrap (if used)
+- Bootstrap5
 
 ## Goals
 - Build scalable real-world web applications
