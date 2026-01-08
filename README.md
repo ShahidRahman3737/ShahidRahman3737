@@ -1,18 +1,27 @@
 ## Hi 👋 I'm Shahid Rahman
 
-💻 Junior Web Developer  
-🌱 Currently learning Laravel & AJAX  
-🛠 Skills: PHP, Laravel, MySQL, HTML, CSS, JavaScript  
-📍 Pakistan  
+💻 Full-Stack Web Developer  
+🛠 Backend: PHP, Laravel, MySQL  
+🎯 Frontend: HTML, CSS, jQuery  
+⚙️ Specialized in CRUD & AJAX-based applications  
+📍 Lahore, Pakistan  
 
-### Projects
-- 🔹 Employee CRUD App (Laravel + AJAX)
+## Projects
+- 🔹 Employee CRUD App (Laravel + jQuery AJAX)
 - 🔹 Tailor Measurement Record System
-- 🔹 Recipe Website (HTML/CSS)
+- 🔹 Recipe Website (HTML / CSS)
 
-### Goals
-- Become a professional Full-Stack Developer
-- Build real-world web applications
+## Skills
+- PHP (Core & Laravel)
+- MySQL
+- HTML5 & CSS3
+- jQuery & AJAX
+- Bootstrap (if used)
 
-📫 Contact me:
+## Goals
+- Build scalable real-world web applications
+- Grow as a professional Full-Stack Developer
+
+📫 Contact:
 - GitHub: @ShahidRahman3737
+
