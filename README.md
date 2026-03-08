@@ -2,14 +2,14 @@
 
 💻 Full-Stack Web Developer  
 🛠 Backend: PHP, Laravel, MySQL  
-🎯 Frontend: HTML, CSS, Bootstrap’s v5.3 jQuery  
+🎯 Frontend: HTML, CSS, Bootstrap’sv5.3 jQuery  
 ⚙️ Specialized in CRUD & AJAX-based applications  
 📍 Lahore, Pakistan  
 
 ## Projects
 - 🔹 Employee CRUD App (Laravel + jQuery AJAX)
-- 🔹 National Public school and collage
-- 🔹 Step2Scientist Accodmy website
+- 🔹 National Public school and college
+- 🔹 Step2Scientist Accadmy website
 - 🔹 Tailor Measurement Record System
 - 🔹 Recipe Website (HTML / CSS)
      
